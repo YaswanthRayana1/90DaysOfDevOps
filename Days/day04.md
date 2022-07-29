@@ -20,7 +20,7 @@ Let's start with definitions.
 
 ### Agile Development
 
-Agile is an approach that focuses on delivering small results faster rather than releasing one big interaction of the product; software is developed in iterations. The team releases a new version every week or month with incremental updates. The final goal of Agile is to deliver an optimal experience to the end-users.
+Agile is an approach that focuses on delivering small results faster rather than releasing one big iteraction of the product; software is developed in iterations. The team releases a new version every week or month with incremental updates. The final goal of Agile is to deliver an optimal experience to the end-users.
 
 ### DevOps
 
